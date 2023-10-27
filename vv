@@ -1,0 +1,58 @@
+#GitHub is a web-based platform for hosting and collaborating on software development projects.
+
+#Git is a distributed version control system that helps track changes in code and manage collaborative development. GitHub uses Git for its platform.
+
+
+#CI (Continuous Integration) in GitHub is the practice of automatically building and testing code changes as they're pushed to a repository, ensuring code quality.
+
+#CD (Continuous Deployment) in GitHub is the automated process of deploying code changes to production environments after passing CI tests, allowing for frequent and reliable software releases.
+
+#Jenkins is an open-source automation server used for building, deploying, and automating software development processes.
+
+#Advantages of Jenkins include its flexibility to integrate with various tools, support for continuous integration and continuous delivery, and a large, active community of users and developers.
+
+#Selenium is an open-source automation framework for testing web applications. It allows you to automate browser actions, test web functionality, and perform regression testing.
+
+#Advantages of Selenium include cross-browser compatibility, support for multiple programming languages, and a wide range of browser and platform compatibility. It also provides flexibility for test script development and integrates well with other testing frameworks.
+
+#Docker is a containerization platform that simplifies application packaging and deployment by creating isolated, lightweight containers.
+
+#It's used to ensure consistent and efficient deployment of applications across different environments, making it easier to manage and scale software in a consistent manner.
+
+In Docker:
+
+1. Dockerfile is a text file that contains instructions to build a Docker image. It specifies the base image, application code, and runtime configurations.
+
+2. Docker image is a lightweight, standalone, executable package that includes everything needed to run a piece of software, including the code, a runtime, libraries, and system tools.
+
+3. Docker container is an instance of a Docker image. It is a runnable environment created from an image, allowing you to run applications in isolated, portable, and reproducible environments.
+
+Maven is a widely used build automation and project management tool in Java development. It helps manage dependencies, build projects, and streamline the software development process.
+
+1. Manual Testing: Involves human testers executing test cases without automation to identify defects.
+
+2. Automated Testing: Uses scripts and testing tools to perform predefined test cases, making testing faster and repeatable.
+
+#In a Maven project, dependencies are external libraries or components that your project relies on to compile, build, and run. Maven manages these dependencies by downloading and including them in your project's classpath, making it easier to manage and share libraries in your Java application.
+
+#WebDriver is a web automation framework that provides a programming interface for interacting with web browsers, allowing automated testing and web scraping.
+
+It enables developers to automate browser actions, such as clicking links and buttons, filling out forms, and extracting data from web pages using programming languages like Java, Python, and more.
+
+
+#Git is a powerful version control system with various commands. Here are some commonly used Git commands:
+
+1. `git init`: Initialize a new Git repository.
+2. `git clone <repository URL>`: Clone a remote Git repository to your local machine.
+3. `git add <file>`: Stage changes for commit.
+4. `git commit -m "Message"`: Commit staged changes with a descriptive message.
+5. `git pull`: Fetch changes from a remote repository and merge them into the current branch.
+6. `git push`: Push local changes to a remote repository.
+7. `git branch`: List local branches.
+8. `git checkout <branch>`: Switch to a different branch.
+9. `git merge <branch>`: Merge changes from one branch into the current branch.
+10. `git status`: Show the status of the working directory.
+11. `git log`: View commit history.
+12. `git diff`: View the differences between the working directory and the last commit.
+
+These are just a few Git commands. Git provides a wide range of functionality for version control and collaboration in software development.
